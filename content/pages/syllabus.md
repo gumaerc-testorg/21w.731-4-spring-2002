@@ -1,8 +1,11 @@
 ---
 content_type: page
+description: This syllabus section provides information on course focus and goals,
+  meeting times, required texts, recommended texts, logistics, schedule and routines,
+  coursework, and policies.
 learning_resource_types: []
+ocw_type: ''
 title: Syllabus
-type: CourseSection
 uid: c96299fc-4742-dab3-9c9c-f60d80475fb9
 ---
 

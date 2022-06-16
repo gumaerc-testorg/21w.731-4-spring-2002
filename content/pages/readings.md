@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: This section provides details on required texts for the course, recommended
+  texts, additional readings, and viewings. Notes on readings and viewings are also
+  provided.
 learning_resource_types: []
+ocw_type: ''
 title: Readings
-type: CourseSection
 uid: 760d8422-bb06-e05a-95c3-43640ae27bff
 ---
 
-Reading and Viewings Notes ([PDF]({{< baseurl >}}/resources/view_notes))
+Reading and Viewings Notes ({{% resource_link 77d14fba-bf48-e581-50a6-b1b514c3350d "PDF" %}})
 
 Required Texts
 --------------
