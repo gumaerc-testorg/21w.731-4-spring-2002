@@ -2,7 +2,8 @@
 content_type: resource
 description: Writing assignment on a cultural turning point in your life or a moment
   of realization.
-file: /courses/21w-731-4-writing-and-experience-spring-2002/f8bacd304bda2b6e95a4687aea270d82_assignment3.pdf
+file: /ol-ocw-studio-app/courses/21w-731-4-writing-and-experience-spring-2002/f8bacd304bda2b6e95a4687aea270d82_assignment3.pdf
+file_size: 73010
 file_type: application/pdf
 learning_resource_types:
 - Assignments

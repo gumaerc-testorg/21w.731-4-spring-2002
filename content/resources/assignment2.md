@@ -1,7 +1,8 @@
 ---
 content_type: resource
 description: Writing assignment on traits, roles, or identities.
-file: /courses/21w-731-4-writing-and-experience-spring-2002/df094e3473184b1d98f94bda98d1d815_assignment2.pdf
+file: /ol-ocw-studio-app/courses/21w-731-4-writing-and-experience-spring-2002/df094e3473184b1d98f94bda98d1d815_assignment2.pdf
+file_size: 159913
 file_type: application/pdf
 learning_resource_types:
 - Assignments

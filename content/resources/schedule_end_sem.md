@@ -2,7 +2,8 @@
 content_type: resource
 description: Details on the course schedule for the end of semester and the required
   portfolio.
-file: /courses/21w-731-4-writing-and-experience-spring-2002/ec0933e8740531fe6743b57ffc4847ed_schedule_end_sem.pdf
+file: /ol-ocw-studio-app/courses/21w-731-4-writing-and-experience-spring-2002/ec0933e8740531fe6743b57ffc4847ed_schedule_end_sem.pdf
+file_size: 96687
 file_type: application/pdf
 learning_resource_types:
 - Assignments
