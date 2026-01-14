@@ -115,12 +115,12 @@ Academic Honesty
 
 Plagiarism is the unattributed use of someone else's ideas or words, whether paraphrased or duplicated exactly. It results in penalties from "F" grades to expulsion. Plagiarism robs you of finding out what you think; it also robs the author. Avoid it. Consult Mayfield or _EZ Writer_ on documentation styles. Please use MLA style in this course for references to the readings (i.e., Sanders 14). I expect that all essays will be written first and only for this class.
 
-MIT's academic honesty policy can be found on the {{% resource_link "7d6bc0c2-0d6d-46ec-a361-fd2e1056ce96" "Policies & Procedures" %}} site.
+MIT's academic honesty policy can be found on the [Policies & Procedures](http://policies-procedures.mit.edu/) site.
 
 Writing Center
 --------------
 
-The Writing and Communication Center offers free consultations on appointments and sometimes the Center takes walk-ins. Visit the Writing and Communication Center web site at: {{% resource_link "24f6635d-9d97-4f0f-8baf-cae884313754" "https://cmsw.mit.edu/writing-and-communication-center/" %}}
+The Writing and Communication Center offers free consultations on appointments and sometimes the Center takes walk-ins. Visit the Writing and Communication Center web site at: [https://cmsw.mit.edu/writing-and-communication-center/](https://cmsw.mit.edu/writing-and-communication-center/)
 
 Important Note
 --------------
